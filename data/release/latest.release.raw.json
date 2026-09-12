@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2293446,
       "digest": "sha256:0895ff0b56882390698cf096215e9da18e49f84d97cb2e4c31c3cb911cea6d42",
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2026-08-17T02:04:51Z",
       "updated_at": "2026-08-17T02:04:51Z",
       "browser_download_url": "https://github.com/wcampbell0x2a/heretek/releases/download/v0.9.0/heretek-v0.9.0-x86_64-unknown-linux-musl.tar.gz"
