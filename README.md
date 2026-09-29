@@ -48,12 +48,12 @@ Total: **6,344** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 1 | 5 | 1 | 0 | 1 | 7 |
-| 90d | 2026-06-30 | 1 | 7 | 2 | 0 | 1 | 23 |
-| last180d | 2026-04-01 | 1 | 9 | 5 | 1 | 1 | 26 |
-| 360d | 2025-10-03 | 3 | 20 | 11 | 3 | 2 | 53 |
-| last720d | 2024-10-08 | 23 | 95 | 14 | 79 | 15 | 377 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 1 | 5 | 1 | 0 | 1 | 7 |
+| 90d | 2026-07-01 | 1 | 7 | 2 | 0 | 1 | 23 |
+| last180d | 2026-04-02 | 1 | 9 | 5 | 0 | 1 | 26 |
+| 360d | 2025-10-04 | 3 | 20 | 11 | 3 | 2 | 53 |
+| last720d | 2024-10-09 | 23 | 95 | 14 | 79 | 15 | 377 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for heretek lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:01:11Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:26:01Z._
